@@ -1,4 +1,5 @@
 
+
 This software is legally protected (in the US) under the following legal ruling:
 
 Lewis Galoob Toys, Inc. v. Nintendo of America, Inc., 964 F. 2d 965 - Court of Appeals, 9th Circuit 1992
