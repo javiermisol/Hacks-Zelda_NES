@@ -1,0 +1,12 @@
+Raft located in level # 3
+Recorder located in level # 5
+Magical Boomerang located in level # 2
+Wooden Boomerang located in level # 1
+Ladder located in level # 4
+Bow located in level # 1
+Wand located in level # 6
+Magical Key located in level # 8
+Red Ring located in level # 9
+Silver Arrows located in level # 9
+Red Candle located in level # 7
+Book located in level # 8
